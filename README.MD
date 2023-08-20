@@ -56,10 +56,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/brayozin/brayozin/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<!-- ![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white) -->
