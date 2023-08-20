@@ -7,20 +7,18 @@
 
 <img src="Cover.gif " alt="banner that says Yash Kumar - Software Engineer, Content Creator and Community Organizer alongside a cartoon illustration of Yash" width="100%" height="auto" />
 
+<div align="left">
 
-
-<div style="display: flex; justify-content: start; align-items: center; gap: 5px">
    <!-- gitlab -->
-  <div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-   <a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="brayozin" height="35" /></a>
-  </div>
-    <!-- linkedIn-->
-   <a href="https://www.linkedin.com/in/yash-kumar-0707/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="brayozin" height="35"></a>
 
+<a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="Gitlab" height="35" /></a>
 
+<!-- linkedin -->
+<a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" height="35" /></a>
 </div>
 
 ###
+
 <h2 align="left">Languages and Tools:</h2>
 
 <div align="left">
@@ -47,6 +45,7 @@
 </div>
 
 ###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -63,11 +62,4 @@
 
 ###
 
-
-
-
-
 <!-- ![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white) -->
-
-
-
