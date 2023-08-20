@@ -9,7 +9,7 @@
 
 
 
-<div style="display: flex; justify-content: start; align-items: center; gap: 10px">
+<div style="display: flex; justify-content: start; align-items: center; gap: 5px">
    <!-- gitlab -->
   <div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
    <a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="brayozin" height="35" /></a>
