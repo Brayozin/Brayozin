@@ -7,6 +7,7 @@
 
 <img src="Cover.gif " alt="banner that says Yash Kumar - Software Engineer, Content Creator and Community Organizer alongside a cartoon illustration of Yash" width="100%" height="auto" />
 
+
 <div align="left">
 
    <!-- gitlab -->
@@ -17,7 +18,6 @@
 <a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" height="35" /></a>
 </div>
 
-###
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -46,7 +46,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="./ed.gif"  />
 
 ###
 
