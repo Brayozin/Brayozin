@@ -5,7 +5,7 @@
 <!-- Gif cover on center-->
 <h3 align="left" >Hi! My name is Bryan and I'm a Computer Science Student, from Brasil </h2>
 
-<img src="Cover.gif " alt="banner that says Yash Kumar - Software Engineer, Content Creator and Community Organizer alongside a cartoon illustration of Yash" width="100%" height="auto" />
+
 
 
 <div align="left">
