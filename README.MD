@@ -12,7 +12,7 @@
 
    <!-- gitlab -->
 
-<a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="Gitlab" height="35" /></a>
+<a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white" alt="Gitlab" height="35" /></a> <= a large part of the things I do are in my college Gitlab
 
 <!-- linkedin -->
 <a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" height="35" /></a>
