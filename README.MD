@@ -16,7 +16,7 @@
 <span> < College GitLab > </span>
 
 <!-- linkedin -->
-<a href="https://gitlab.c3sl.ufpr.br/bfsc19" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" height="35" /></a>
+<a href="https://www.linkedin.com/in/brayo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" height="35" /></a>
 </div>
 
 
